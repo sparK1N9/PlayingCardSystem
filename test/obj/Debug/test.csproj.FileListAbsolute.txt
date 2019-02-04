@@ -5,3 +5,10 @@ C:\Users\sparK1N9\Desktop\test\test\test\obj\Debug\test.csprojAssemblyReference.
 C:\Users\sparK1N9\Desktop\test\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
 C:\Users\sparK1N9\Desktop\test\test\test\obj\Debug\test.exe
 C:\Users\sparK1N9\Desktop\test\test\test\obj\Debug\test.pdb
+C:\Users\sparK1N9\Desktop\test\PlayingCardSystem\test\bin\Debug\test.exe.config
+C:\Users\sparK1N9\Desktop\test\PlayingCardSystem\test\bin\Debug\test.exe
+C:\Users\sparK1N9\Desktop\test\PlayingCardSystem\test\bin\Debug\test.pdb
+C:\Users\sparK1N9\Desktop\test\PlayingCardSystem\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\sparK1N9\Desktop\test\PlayingCardSystem\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\sparK1N9\Desktop\test\PlayingCardSystem\test\obj\Debug\test.exe
+C:\Users\sparK1N9\Desktop\test\PlayingCardSystem\test\obj\Debug\test.pdb

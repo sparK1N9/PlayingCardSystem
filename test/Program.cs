@@ -66,6 +66,7 @@ namespace test
         }
 
         // Gives each player one card from the deck
+        // Assuming that there are enough cards in the deck for each player
         public static void Deal1CardToEachPlayer()
         {
             foreach (Player p in players)
@@ -75,6 +76,7 @@ namespace test
             }
         }
     }
+
     class HighCard : PlayingCardSystem
     {
         // Initializes the deck and the players
@@ -86,6 +88,7 @@ namespace test
         }
 
         // Finds the winner and outputs to the screen(Console)
+        // Assuming that the suit does not matter in determining the winner, only the value does
         static void HandleResult()
         {
             Card card1 = (Card)((Player)players[0]).hand[0];
